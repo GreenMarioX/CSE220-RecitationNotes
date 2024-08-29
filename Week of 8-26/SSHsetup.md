@@ -2,6 +2,15 @@
 
 This tutorial will guide you through the process of setting up SSH on GitHub for both Mac and Windows operating systems.
 
+SSH is not mandatory to set up if you are using codespaces or if you are cloning via https.
+
+## GitHub Documentation
+The following tutorial was written based on the two links below. Please refer to them for assistance with setting up SSH.
+
+- [Generating a new SSH key and adding it to the SSH agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+- [Adding a new SSH key to your GitHub account (Windows)](https://docs.github.com/en/enterprise-cloud@latest/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?platform=windows)
+
 ## Prerequisites
 Before you begin, make sure you have the following:
 
@@ -62,8 +71,3 @@ Follow these steps to set up SSH on GitHub for Windows:
 
 That's it! You have successfully set up SSH on GitHub for both Mac and Windows.
 
-## GitHub Documentation
-
-- [Generating a new SSH key and adding it to the SSH agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-
-- [Adding a new SSH key to your GitHub account (Windows)](https://docs.github.com/en/enterprise-cloud@latest/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?platform=windows)
