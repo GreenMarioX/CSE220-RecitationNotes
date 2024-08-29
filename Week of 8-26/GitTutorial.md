@@ -20,13 +20,12 @@ At this point, you should have modified your code and are now planning to push t
 
 To add and commit changes, follow these steps:
 
-1. Make the necessary changes to your files.
-2. Use the `git add` command to stage the changes.
+1. Use the `git add` command to stage the changes.
     ```
     git add .
     ```
     The '.' signifies all files that are in the directory.
-3. Use the `git commit` command to commit the changes with a descriptive message. For example:
+2. Use the `git commit` command to commit the changes with a descriptive message. For example:
     ```
     git commit -m "Added new feature"
     ```
@@ -39,5 +38,6 @@ To push your changes to a GitHub repository, follow these steps:
     ```
     git push
     ```
+Repeat all steps necessary when doing future commits and pushes.
 
-Congratulations! You have successfully learned how to clone, add, commit, and push to a GitHub repository.
+End of tutorial.
