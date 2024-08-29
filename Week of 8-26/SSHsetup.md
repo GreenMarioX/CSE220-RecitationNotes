@@ -5,7 +5,7 @@ This tutorial will guide you through the process of setting up SSH on GitHub for
 SSH is not mandatory to set up if you are using codespaces or if you are cloning via https.
 
 ## GitHub Documentation
-The following tutorial was written based on the two links below. Please refer to them for assistance with setting up SSH.
+The following tutorial was written based on the three links below. Please refer to them for assistance with setting up SSH.
 
 - [Generating a new SSH key and adding it to the SSH agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
