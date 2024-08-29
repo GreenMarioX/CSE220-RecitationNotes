@@ -11,6 +11,8 @@ The following tutorial was written based on the two links below. Please refer to
 
 - [Adding a new SSH key to your GitHub account (Windows)](https://docs.github.com/en/enterprise-cloud@latest/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?platform=windows)
 
+- [Adding a new SSH key to your GitHub account (Mac)](https://docs.github.com/en/enterprise-cloud@latest/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?platform=mac)
+
 ## Prerequisites
 Before you begin, make sure you have the following:
 
@@ -70,4 +72,7 @@ Follow these steps to set up SSH on GitHub for Windows:
 9. Give your SSH key a descriptive title and click "Add SSH key".
 
 That's it! You have successfully set up SSH on GitHub for both Mac and Windows.
+
+## Troubleshooting
+If you are having trouble with setting up SSH, either come to TA office hours, follow a YouTube tutorial, or utilize the official GitHub documentation.
 
